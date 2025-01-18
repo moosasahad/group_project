@@ -7,6 +7,9 @@ function App() {
      <h1>hello world</h1>  
      <h2>moosa</h2>
 <h2>rinuuu</h2>
+<h3>shahuuuuu
+  
+</h3>
     </div>
   );
 }
